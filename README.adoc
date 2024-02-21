@@ -86,3 +86,4 @@ Durante el desarrollo del trabajo, nos encontramos con problemas de los cuales s
 
 Un problema que no pudimos resolver fue que queríamos que la base de datos se borrara al apretar el '0' en el menú, pero a la primera vez saltaba un error que decia "database "tarjeta" is being accessed by other users". Por el momento no hemos conseguido arreglarlo. La base de datos se borrar si corremos de nuevo el programa y apretamos '0' directamente.
 
+Se adjunta el link al repositorio original del trabajo en gitlab: link:https://gitlab.com/Kevoenisimo/ruiz-sanchez-santillan[aquí]
